@@ -1,0 +1,6 @@
+{
+  "files": {
+    "excludeDirs": [".direnv"],
+    "watcherExclude": [".direnv"]
+  }
+}
